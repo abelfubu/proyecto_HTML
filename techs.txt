@@ -5,3 +5,4 @@ Nuevas apitutudes
 -----------------
 * Git
 * Github
+* Pull Requests
